@@ -1,0 +1,4 @@
+if( ACPF )
+{
+	ACPF.initClasses();
+}
